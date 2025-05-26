@@ -2,7 +2,7 @@
 
 ## Overview
 
-CobraMcp 是一个 Go 语言工具库，用于将 Cobra 命令行应用程序转换为 MCP (Minecraft Protocol) 的 Tool 格式。
+CobraMcp 是一个 Go 语言工具库，用于将 Cobra 命令行应用程序转换为 MCP 的 Tool 格式。
 
 思路和部分代码来源于 [mcp-cobra](https://github.com/PlusLemon/mcp-cobra).
 
